@@ -1,3 +1,7 @@
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset=".github/gigguard.png">
+  <img alt="Vision Max Logo" src=".github/gigguard.png">
+</picture>
 
 ---
 
